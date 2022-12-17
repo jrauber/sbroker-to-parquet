@@ -18,3 +18,5 @@ Inputs:
 - DKB.csv ("Tranfer in" of the share values which were moved from SBroker to DKB)
 
 The process is build upon spring batch and served me well during the the data migration.
+
+Disclaimer: This is a quick and *very* dirty implementation, don't expect much.
